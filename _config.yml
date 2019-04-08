@@ -1,11 +1,11 @@
 # Site settings
 author: Asad Rahman
-title: 
+title: Interpreting your Data
 header-img: img/home-bg.png
 email: asad.rahman0094@gmail.com
 copyright_name: Asad Rahman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Module 1 Final Project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  asadrahman0094
