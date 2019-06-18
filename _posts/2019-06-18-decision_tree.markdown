@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Decision Tree"
-date:       2019-06-18 17:50:22 +0000
+date:       2019-06-18 13:50:23 -0400
 permalink:  decision_tree
 ---
 
